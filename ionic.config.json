@@ -1,0 +1,7 @@
+{
+  "name": "ionic-tts",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
